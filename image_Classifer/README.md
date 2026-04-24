@@ -69,7 +69,7 @@ pip install fastai ddgs
 image_Classifer/
 ├── imageclassifier.ipynb   # Main notebook (full pipeline)
 ├── README.md               # Project documentation
-├── LICENSE                  # MIT License
+├── LICENSE                
 └── .gitignore             
 ```
 
