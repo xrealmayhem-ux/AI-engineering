@@ -52,7 +52,7 @@ pip install fastai ddgs
 1. **Open** `imageclassifier.ipynb` in Colab, Kaggle, or Jupyter.
 2. **Modify the search terms** to classify any two categories:
    ```python
-   searches = 'cat', 'dog'  # Change these to anything, e.g. 'bird', 'forest'
+   searches = 'spiral galaxy', 'elliptical galaxy'  # Change these to anything, e.g. 'bird', 'forest'
    ```
 3. **Run all cells** — the notebook will:
    - Download ~200 images per category
