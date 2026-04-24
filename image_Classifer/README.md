@@ -70,7 +70,7 @@ image_Classifer/
 ├── imageclassifier.ipynb   # Main notebook (full pipeline)
 ├── README.md               # Project documentation
 ├── LICENSE                  # MIT License
-└── .gitignore              # Ignore model weights, cache, etc.
+└── .gitignore             
 ```
 
 ---
